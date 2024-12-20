@@ -12,9 +12,9 @@ Visual components and Python
 
 ## Procedure :
 ![image](https://user-images.githubusercontent.com/103921593/203239789-bc870dce-6727-487b-a0e2-4fc3f5114889.png)
+
 ## Experiment:
 ![Screenshot 2024-12-20 164724](https://github.com/user-attachments/assets/014be5b1-0d22-47ad-84d5-76bb854292ee)
-![Screenshot 2024-12-20 164739](https://github.com/user-attachments/assets/dea2f5c7-855c-47f7-939f-507bd2236ec0)
 
 
 ## Program
